@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ConstructionFinancialPlatform/FileContentIndex/c2d6545b-ce85-47dd-9dde-66d982529cba.vsidx
+/.vs/ConstructionFinancialPlatform/FileContentIndex/04dc3c08-61dc-46b1-b2db-c99ec76e8d83.vsidx
+/.vs/ConstructionFinancialPlatform/FileContentIndex/33efe427-7dfd-493d-ad79-292108c7aab3.vsidx
+/.vs/ConstructionFinancialPlatform/FileContentIndex/a2398b43-b906-4518-ae39-c86ae388e99b.vsidx
+/.vs/ConstructionFinancialPlatform/FileContentIndex/bd1b6f34-d5bb-4b9e-b0f2-449e3a596b3b.vsidx
+/.vs/ConstructionFinancialPlatform/FileContentIndex/db2cb668-71e4-4aae-bf74-8062e10fea84.vsidx
+/.vs/ConstructionFinancialPlatform/FileContentIndex/e81b0ef4-da28-4260-b46e-5a54d8876cd4.vsidx
+/.vs/slnx.sqlite
+/.vs/slnx.sqlite-journal
+*.vsidx
